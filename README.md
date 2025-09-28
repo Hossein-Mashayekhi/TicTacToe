@@ -36,7 +36,7 @@ python src/main.py
 
 ---
 
-##How to Play
+## How to Play
 
 1. The program randomly decides who goes first (`X` or `O`).
 2. Players take turns entering a number between **1–9**, representing the board:
