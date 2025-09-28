@@ -31,8 +31,8 @@ Make sure you have **Python 3.7+** installed.
 Clone this repo or copy the script, then run:
 
 ```bash
-python src/tic_tac_toe.py
-````
+python src/main.py
+```
 
 ---
 
